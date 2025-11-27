@@ -1,0 +1,4 @@
+repository "stormchaser_unity,/stormchaser_game@2475181601435@cloud"
+  path "/"
+    br "/main"
+    co "/main"
